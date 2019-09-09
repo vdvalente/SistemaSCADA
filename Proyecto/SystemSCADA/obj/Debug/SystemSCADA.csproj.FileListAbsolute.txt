@@ -1,0 +1,65 @@
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\SystemSCADA.exe.config
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\SystemSCADA.exe
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\SystemSCADA.pdb
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Controls.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Imaging.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Video.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Vision.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AGauge.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\EasyModbus.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\WebCam_Capture.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Math.dll
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Controls.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Imaging.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Video.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Vision.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\bin\Debug\AForge.Math.xml
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.Properties.Resources.resources
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.Vista.FormInterfaz.resources
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.csproj.CopyComplete
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.exe
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.pdb
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.Vista.formConexionBD.resources
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.Vista.formLogin.resources
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.Vista.Intro.resources
+C:\Users\victo\source\repos\SystemSCADA\SystemSCADA\obj\Debug\SystemSCADA.Vista.SeleccionDeAreaDeTrabajo.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\SystemSCADA.exe.config
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\SystemSCADA.exe
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\SystemSCADA.pdb
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Controls.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Imaging.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Video.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Vision.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Math.dll
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Controls.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Imaging.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Video.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Vision.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\bin\Debug\AForge.Math.xml
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.csprojAssemblyReference.cache
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.Properties.Resources.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.Vista.formConexionBD.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.Vista.formLogin.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.Vista.FormInterfaz.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.Vista.Intro.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.Vista.SeleccionDeAreaDeTrabajo.resources
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.csproj.GenerateResource.cache
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.csproj.CopyComplete
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.exe
+C:\Users\victo\Documents\Victor Daniel\TesisScada\Proyecto\SystemSCADA\obj\Debug\SystemSCADA.pdb
